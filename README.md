@@ -2,7 +2,7 @@
 
 Source folder id: 1cpo-7jgKSMdde-QrEJGkGxN1QvYdzP9V
 
-Assessments:
+**Assessments:**
 - Write a script to generate a report that shows number of files and folders in total for the
 source folder 
 - Write a script to generate a report that shows number of files and folders for each folder
@@ -11,7 +11,7 @@ under this folder id (recursively) and a total of nested folders for the source 
 destination folder
 
 
-Instructions:
+**Instructions:**
 1. https://console.cloud.google.com/ to create a new GCP project
 2. enable Google Drive api
 3. create OAuth 2.0 credential for Google Drive API and set type of cred to desktop
