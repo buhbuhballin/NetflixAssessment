@@ -159,7 +159,7 @@ def printResults():
     pprint.pprint(foldersDict)
 
     #displays a list of all files nested within root folder, including metadata
-    print("H\neres the files list")
+    print("\nHeres the files list")
     pprint.pprint(filesDict)
 
     #displays all children files/folders, if any, for each folder
